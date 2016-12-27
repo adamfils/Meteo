@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/backa"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/sunset0"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/sunset1"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/sunset2"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/sunset3"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/sunset4"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/sunset5"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/sunset6"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/sunset7"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/sunset8"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/sunset9"
+        android:duration="100" />
+</animation-list>
